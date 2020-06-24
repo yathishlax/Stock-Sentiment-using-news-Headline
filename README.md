@@ -1,9 +1,7 @@
 Goal:
 This project is basically focused on identifying the stock movement based on 
 news headlines.
-It is applied in following two vectorizing methods.
-1.Bag of words model.
-2. TF-IDF model
+It is applied in following Bag of words model.vectorizing methods.
 
 Source:
 The source of this dataset is from Kaggle.com scrapped from yahoo finance
